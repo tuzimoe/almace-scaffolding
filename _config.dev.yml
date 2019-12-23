@@ -3,7 +3,7 @@
 #
 
 # Expose site to local network
-host:           0.0.0.0
+host:           localhost
 
 # Re-include theme example pages for development
 exclude:        []
