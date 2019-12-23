@@ -6,7 +6,8 @@
   "homepage": "https://sparanoid.com/lab/amsf/",
   "main": "Gruntfile.coffee",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "prod": "grunt && grunt deploy:rsync --env=prod"
   },
   "repository": {
     "type": "git",

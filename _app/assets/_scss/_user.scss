@@ -29,6 +29,8 @@
 :root {
   --code-color-h: calc(var(--link-color-h) + 10);
   --code-color-s: calc(var(--link-color-s) * .2 + 40%);
+  --fontstack-sans-serif: "Helvetica Neue", "Hiragino Sans GB", Arial, sans-serif;
+  --fontstack-serif: Georgia, "Hiragino Mincho ProN", serif;
 }
 
 .content .sub-title {
