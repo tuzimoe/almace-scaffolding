@@ -15,10 +15,10 @@ category: 13
 天氣不好，中午就開始下毛毛雨，約定的時間是下午壹點半，在梅西大學的圖書館。魚的女友選擇不和她壹起去學習，理由是和魚在壹起的時候，她沒有辦法集中精神。魚很孤單，也很落寞。進入圖書館，魚主動下來接我怕我找不到他的卡座。很快便進入了學習的狀態。
 魚帶著 iPad 水壺和壹本習題，相比我的桌子，淩亂了許多。或許這恰恰可以更好的證明他在用功學習，而兔十三更像是壹個陪伴者。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/Kefbt0D5SdqvHTrpBdFAcACia6zSNJWz8fCOaelNWd5IA4pYFjnrZD2aSGwicBTCstY2orUnnZYw51msiaPQDLXhA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1)
+![](https://i.loli.net/2019/12/24/swlkOv8H5B3u7t2.jpg)
 兔十三的桌面
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/Kefbt0D5SdqvHTrpBdFAcACia6zSNJWz8fSZPN9PkvtyiavqN5oZibDhMLaVN63kcHkgOISb7ibIOAu4uKS2Fytlvw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1)
+![https://i.loli.net/2019/12/24/ctgGWB7SzYUFKkE.jpg]()
 魚的桌面      
 
 其實與其說魚在學習，更不如說，魚在努力的抖音，事實上，他有壹半的時間都在努力抖音，在發現我如實記錄裏他所作所為的時候，還想嘗試偷偷的改掉我的筆記，魚學習的過程更像是 『學習 看抖音 嘆氣 發呆 喝水』循環進行。
@@ -50,7 +50,7 @@ category: 13
 魚帶著對朋友的思念，來到了壹個距離學校 9900 公裏之外的地方。魚真的很想念他的朋友，可是在他半年之後回國發現。『呵呵，狗屁。時間會沖毀壹切，距離會拆散所有。已經生疏了，我以為是他們變了，後來我發現，是自己變了。到最後才發現，誰都沒變。只不過朝著各自的方向前行著。衙門在玻璃瓶裏的話，只不過是信口開河。現在每年我回去，還能聚在壹起的就兩個人。現在看來，都是很陌生的人呢。』雙向孤獨，魚很喜歡這首歌，魚總覺得這首歌像是在唱自己，魚壹個人出去吃飯，壹個人玩遊戲，壹個人看電影，壹個人出去旅行。魚體會過孤獨的感覺，也體會過周圍朋友很多的感覺。
 
 『享受當下呀』兔十三在出租結束後，苦思冥想，壹直想不到壹個合適的詞來形容魚，和魚聊起了微信。
-![](https://mmbiz.qpic.cn/mmbiz_png/Kefbt0D5SdqvHTrpBdFAcACia6zSNJWz84JjaHMfZ4W7vehUIe1Ef1bK0VzrWhFHhqUFn9lPXD3ibCPm50GIXicCg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1)
+![https://i.loli.net/2019/12/24/seJnxjmokqRzXLH.jpg]()
 其實，在兔十三看來，雙向孤獨，的確是當代社會人的通病。孤獨麽？沒人在乎，只有自己在乎，可是在乎了又有何妨，明天還是拼命奮鬥的壹天。把孤獨的壹面留給夜晚的自己，似乎的確是最好的選擇。而這條雙向孤獨的魚，就壹直在這座城市裏飄著，飄向不確定的未來和遠方。
 
 ![](https://res-4.cloudinary.com/hypmkhfbk/image/upload/q_auto/v1/ghost-blog-images/-----2019-11-10---3.33.45.png)
