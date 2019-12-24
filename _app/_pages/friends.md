@@ -1,7 +1,7 @@
 ---
-title: 友
+title: 朋友
 layout: page
-desc: 友情・エラー・Friends
+desc: 朋友・友だち・Friends
 permalink: /friends/
 ---
 
