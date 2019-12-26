@@ -13,8 +13,8 @@
 
     {% if page.date %}
       <small>
-        By <span rel="author">{{ author.name }}</span>
-        on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+        <span rel="author">{{ author.name }}</span>
+        於 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time></br>
       </small>
     {% endif %}
 
@@ -26,6 +26,8 @@
 
   <!-- Post content -->
   <div class="post-content">
+    閱讀時間: {{ amsf_page_reading_time }}
+    </br></br>
     {{ content }}
 
     {% assign date_publish = page.date | date: "%b %-d, %Y" %}
