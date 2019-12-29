@@ -2,10 +2,10 @@
 layout: post
 title: 2019 年 52 週 遠い日の歌
 slug: toihinouta
-date_published: 2019-12-30T00:10:38.000Z
-date_updated: 2019-12-30T00:10:38.000Z
+date_published: 2019-12-29T00:10:38.000Z
+date_updated: 2019-12-29T00:10:38.000Z
 tags: 隨筆
-category: whatever
+category: week
 heading-bg: https://i.loli.net/2019/12/30/NcwZviaGF8USl5j.jpg
 heading-bg-text: "#fff"
 ---
