@@ -26,8 +26,6 @@
 
   <!-- Post content -->
   <div class="post-content">
-    閱讀時間: {{ amsf_page_reading_time }}
-    </br></br>
     {{ content }}
 
     {% assign date_publish = page.date | date: "%b %-d, %Y" %}
@@ -43,6 +41,9 @@
         </p>
       </footer>
     {% endif %}
+
+    閱讀時間: {{ amsf_page_reading_time }}
+    </br></br>
     <center><div id="disqus_thread"></div></center>
     <script>
 
