@@ -2,7 +2,7 @@
 
 layout: post
 title: Why AnyCast
-slug: run
+slug: whyanycast
 date_published: 2020-01-30T00:10:38.000Z
 date_updated: 2020-01-30T00:10:38.000Z
 tags: 程式
